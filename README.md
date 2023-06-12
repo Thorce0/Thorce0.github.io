@@ -65,11 +65,11 @@ I was able to run this simulation on the GPU, greatly improving performance.
 
 [//]: # (![Boid Simulation Code]&#40;/images/code-boid-simulation.png&#41;)
 
-*Code for Boid Simulation*
+[//]: # (*Code for Boid Simulation*)
 
 [//]: # (![Boid Simulation]&#40;/images/boid-simulation.png&#41;)
 
-*Boid Simulation in Action*
+[//]: # (*Boid Simulation in Action*)
 
 
 ---
