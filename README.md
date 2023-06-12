@@ -1,7 +1,8 @@
-<div style="text-align: center;">
+<div align="center">
 
 #  Dev Blog: Enhancing Fish Simulation in Unity with VFX Graph and Compute Shaders 
 
+</div>
 
 
 Hello, fellow developers! 
@@ -98,5 +99,4 @@ Stay tuned for more updates, and happy coding!
 
 Peter
 
-</div>
 
