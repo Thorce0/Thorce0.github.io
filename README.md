@@ -1,6 +1,5 @@
 
-<div style="text-align: center;">
-<h1> Dev Blog: Enhancing Fish Simulation in Unity with VFX Graph and Compute Shaders </h1>
+<h1>Dev Blog: Enhancing Fish Simulation in Unity with VFX Graph and Compute Shaders</h1>
 
 
 Hello, fellow developers! 
@@ -11,7 +10,6 @@ The goal was to make the fish appear more organic and to improve their interacti
 with the environment.
 
 ---
-
 <h2>Upgrading the Fish Effect</h2>
 
 The project started with an existing fish effect implemented using Unity's Particle System.
@@ -33,9 +31,7 @@ random movement pattern, enhancing the overall realism of the simulation.
 
 *VFX Graph based swarm*
 
-
 ---
-
 <h2>Keeping Fish in Check with Unity's SDF Bake Tool</h2>
 
 One challenge with the new movement system was preventing the fish from straying 
@@ -51,9 +47,7 @@ swim through them.
 
 *SDF Boundaries*
 
-
 ---
-
 <h2>Implementing a Boid Simulation</h2>
 
 While the SDFs helped keep the fish near the corals, the system still 
@@ -71,10 +65,9 @@ I was able to run this simulation on the GPU, greatly improving performance.
 
 [//]: # (*Boid Simulation in Action*)
 
-
 ---
 
-<h2> Results and Performance</h2>
+<h2>Results and Performance</h2>
 
 The final system allowed for a much more complex simulation, with the fish 
 moving organically and interacting realistically with their environment. Best of all,
@@ -97,4 +90,3 @@ Stay tuned for more updates, and happy coding!
 
 Peter
 
-</div>
