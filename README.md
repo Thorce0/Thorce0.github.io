@@ -1,10 +1,10 @@
 <div align="center">
 
-#  Dev Blog: Enhancing Fish Simulation in Unity with VFX Graph and Compute Shaders 🐠
+#  Dev Blog: Enhancing Fish Simulation in Unity with VFX Graph and Compute Shaders 
 
 
 
-Hello, fellow developers! 👋
+Hello, fellow developers! 
 
 Today, I'm thrilled to share an exciting project I've been working on
 enhancing a fish simulation in Unity using VFX Graph and Compute Shaders. 
@@ -94,7 +94,7 @@ This project was a fantastic opportunity to explore the capabilities
 of Unity's VFX Graph and Compute Shaders. The results speak for themselves, 
 and I'm excited to apply these techniques to future projects.
 
-Stay tuned for more updates, and happy coding! 👩‍💻👨‍💻
+Stay tuned for more updates, and happy coding! 
 
 Peter
 
