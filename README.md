@@ -12,7 +12,7 @@ with the environment.
 
 ---
 
-##  Upgrading the Fish Effect
+<h2>Upgrading the Fish Effect</h2>
 
 The project started with an existing fish effect implemented using Unity's Particle System.
 While this system was functional, it didn't quite capture the organic, fluid movement 
@@ -36,7 +36,7 @@ random movement pattern, enhancing the overall realism of the simulation.
 
 ---
 
-##  Keeping Fish in Check with Unity's SDF Bake Tool
+<h2>Keeping Fish in Check with Unity's SDF Bake Tool</h2>
 
 One challenge with the new movement system was preventing the fish from straying 
 too far from their intended environment. To solve this, 
@@ -54,7 +54,7 @@ swim through them.
 
 ---
 
-##  Implementing a Boid Simulation
+<h2>Implementing a Boid Simulation</h2>
 
 While the SDFs helped keep the fish near the corals, the system still 
 couldn't prevent collisions between individual fish. To tackle this, 
@@ -74,7 +74,7 @@ I was able to run this simulation on the GPU, greatly improving performance.
 
 ---
 
-##  Results and Performance
+<h2> Results and Performance</h2>
 
 The final system allowed for a much more complex simulation, with the fish 
 moving organically and interacting realistically with their environment. Best of all,
