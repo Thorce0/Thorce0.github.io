@@ -22,7 +22,7 @@ where each fish was influenced by Turbulence Noise. This gave the fish a more na
 random movement pattern, enhancing the overall realism of the simulation.
 
 
-![Turbulence Noise Code](/images/code-turbulence-noise.png)
+[//]: # (![Turbulence Noise Code]&#40;/images/code-turbulence-noise.png&#41;)
 
 *Code for Turbulence Noise implementation*
 
@@ -64,11 +64,11 @@ are a popular method for creating flocking behavior, and by using a Compute Shad
 I was able to run this simulation on the GPU, greatly improving performance.
 
 
-![Boid Simulation Code](/images/code-boid-simulation.png)
+[//]: # (![Boid Simulation Code]&#40;/images/code-boid-simulation.png&#41;)
 
 *Code for Boid Simulation*
 
-![Boid Simulation](/images/boid-simulation.png)
+[//]: # (![Boid Simulation]&#40;/images/boid-simulation.png&#41;)
 
 *Boid Simulation in Action*
 
