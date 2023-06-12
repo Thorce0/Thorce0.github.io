@@ -1,4 +1,4 @@
-<div align="center">
+<div style="text-align: center;">
 
 #  Dev Blog: Enhancing Fish Simulation in Unity with VFX Graph and Compute Shaders 
 
