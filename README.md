@@ -10,8 +10,6 @@ enhancing a fish simulation in Unity using VFX Graph and Compute Shaders.
 The goal was to make the fish appear more organic and to improve their interaction
 with the environment.
 
-</div>
-
 ---
 
 ##  Upgrading the Fish Effect
@@ -25,7 +23,7 @@ random movement pattern, enhancing the overall realism of the simulation.
 
 [//]: # (![Turbulence Noise Code]&#40;/images/code-turbulence-noise.png&#41;)
 
-*Code for Turbulence Noise implementation*
+[//]: # (*Code for Turbulence Noise implementation*)
 
 ![Before and After Fish Movement](/images/ParticleSystemSwarm.gif)
 
@@ -81,7 +79,7 @@ I was able to run this simulation on the GPU, greatly improving performance.
 The final system allowed for a much more complex simulation, with the fish 
 moving organically and interacting realistically with their environment. Best of all,
 the entire simulation runs on the GPU, meaning the calculations for around 80 fish are
-completed in less than 1ms on my PC.
+completed in less than 1ms.
 
 
 ![Final Result](/images/BoidSwarm.gif)
@@ -99,4 +97,4 @@ Stay tuned for more updates, and happy coding!
 
 Peter
 
-
+</div>
